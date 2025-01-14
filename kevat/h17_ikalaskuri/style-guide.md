@@ -1,34 +1,34 @@
-# Front-end Style Guide
+# Tyyliohje
 
 ## Layout
 
-The designs were created to the following widths:
+Esimerkkikuvissa on käytetty näitä leveyksiä:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Mobile: max 375px
+- Desktop: max 1440px
 
-## Colors
+## Värit
 
-### Primary
+### Päävärit
 
-- Purple: hsl(259, 100%, 65%)
-- Light red: hsl(0, 100%, 67%)
+- Violetti: hsl(259, 100%, 65%)
+- Vaalea punainen: hsl(0, 100%, 67%)
 
-### Neutral
+### Neutraalit värit
 
-- White: hsl(0, 0%, 100%)
-- Off white: hsl(0, 0%, 94%)
-- Light grey: hsl(0, 0%, 86%)
-- Smokey grey: hsl(0, 1%, 44%)
-- Off black: hsl(0, 0%, 8%)
+- Valkoinen: hsl(0, 0%, 100%)
+- Melkein valkoinen: hsl(0, 0%, 94%)
+- Vaalea harmaa: hsl(0, 0%, 86%)
+- Savunharmaa: hsl(0, 1%, 44%)
+- Melkein musta: hsl(0, 0%, 8%)
 
-## Typography
+## Typographia eli kirjasimet
 
-### Body Copy
+### Leipätekstin koko
 
-- Font size (inputs): 32px
+- Fonttikoko (inputit): 32px
 
-### Font
+### Fontti
 
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 400i, 700, 800i
